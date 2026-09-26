@@ -1,4 +1,4 @@
-Im So Sorry
+Im So Sorry.
 This is a terrible game, I was busy and so I made a very simple platformer. 
 This has inspired me to make a better game.
 
